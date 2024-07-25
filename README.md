@@ -1,4 +1,6 @@
-[![MasterHead](https:https://www.digitalsolutionservices.com/img/services/web%20development.gif)
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Sathya Narayana</h1>
+<h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="coding" width="500" src="https://camo.githubusercontent.com/7fe50e445639132b58864ee594fe7d937d0b6ca53ca3f4ea53e7a030471d5e0e/68747470733a2f2f7777772e766b72656174652e696e2f73746f726167652f73657276696365735f696d6167652f323031392d31302d30322d31372d35352d35342d356439346534616138303962332d7765622d646576656c6f706d656e742e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narayana56&label=Profile%20views&color=0e75b6&style=flat" alt="narayana56" /> </p>
