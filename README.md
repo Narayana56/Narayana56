@@ -15,7 +15,8 @@
 
 - 📫 How to reach me **gurramsathya2003@gmail.com**
 
-- 📄 Know about my experiences [preparing](preparing)
+- 📄 Know about my experiences [Resume](https://1drv.ms/b/c/bf14537c57d0fa6b/EQYoB9ZVRNBCuOHeAAf24FsBIv2AbDCKWC4khHUVlwyTmw)
+
 
 - ⚡ Fun fact **I'm tech enthusiastic**
 
